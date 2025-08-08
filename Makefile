@@ -21,7 +21,7 @@ test:
 clean:
 	rm -f conftest.tar.gz
 	@echo "Cleanup complete!"
-# Use this for later
+# Use this for later - run below in Codespaces terminal
 # make install   # Installs conftest
 # make test      # Runs your Rego test
 # make           # Does both install and test
